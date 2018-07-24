@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+.idea
+*__pycache__*
+
+#data
+data/babelfied-wikipediaXML.tar.gz
+data/babelfied-wikipediaXML.tar.gz.part
+data/question-answer-pairs.txt

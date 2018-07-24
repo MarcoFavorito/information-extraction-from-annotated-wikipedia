@@ -1,0 +1,15 @@
+Where is X?	place
+Is X in Y?	place
+Where is located X?	place
+What is X?	generalization
+Is X a Y?	generalization
+Is X an example of Y?	generalization
+What is X made of?	material
+Is X made of Y?	material
+What constitutes X?	material
+What does smell like X?	smell
+Does X smell like Y?	smell
+Is the smell of X similar to the smell of Y?	smell
+What does taste like X?	taste
+Does X taste like Y?	taste
+Is the taste of X similar to the taste of Y?	taste

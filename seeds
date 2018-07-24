@@ -1,0 +1,21 @@
+place:located in,can be found in,placed in_0.93;
+material:made out of,made of,made from_0.98;
+generalization:is,is a,is an,is a kind of,is an example of_0.92;
+smell:
+    smells like,
+    smell like,
+    have an odor,
+    has an odor similar to,
+    has an odor suggestive of,
+    has a distinctive smell of,
+    smells similar to,
+    bears a smell of,
+    has an odor suggestive of,
+    emit odor similar to,
+    has smell reminiscent of_0.91;
+taste:
+    tastes like,
+    taste like,
+    has a taste similar to,
+    has similar taste to,
+    taste and smell like_0.92;
